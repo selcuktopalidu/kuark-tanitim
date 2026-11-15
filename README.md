@@ -1,8 +1,8 @@
 # KuARK · İDÜ Lab
 
-**The same science lab for every learner.** 186 free science games and 3,740 levels, from primary school to university, in 25 languages.
+**The same science lab for every learner.** 150+ free science games and 3,000+ levels, from primary school to university, in 25 languages.
 
-**Her öğrenciye aynı bilim laboratuvarı.** İlkokuldan üniversiteye 186 ücretsiz bilim oyunu ve 3.740 seviye, 25 dilde.
+**Her öğrenciye aynı bilim laboratuvarı.** İlkokuldan üniversiteye 150’den fazla ücretsiz bilim oyunu ve 3.000’den fazla seviye, 25 dilde.
 
 - Introduction page / Tanıtım sayfası: **https://selcuktopalidu.github.io/kuark-tanitim/**
 - Platform: **https://oyun.idu.edu.tr** (opening soon / yakında açılıyor)
