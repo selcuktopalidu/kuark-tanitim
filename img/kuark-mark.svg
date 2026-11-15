@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="KuARK">
+  <defs>
+    <linearGradient id="kq-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#162445"/><stop offset="1" stop-color="#0b1022"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="96" height="96" rx="24" fill="url(#kq-bg)"/>
+  <circle cx="50" cy="52" r="30" fill="none" stroke="#eef4ff" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M50 29 C 63 36, 69 48, 67 63" fill="none" stroke="#eef4ff" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+  <path d="M33 63 C 31 48, 37 36, 50 29" fill="none" stroke="#eef4ff" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+  <path d="M33 63 C 44 70, 56 70, 67 63" fill="none" stroke="#eef4ff" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="29" r="9.5" fill="#ff8a7a"/>
+  <circle cx="33" cy="63" r="9.5" fill="#b8ed86"/>
+  <circle cx="67" cy="63" r="9.5" fill="#8cd0ec"/>
+  <circle cx="50" cy="29" r="3.2" fill="#fff" fill-opacity=".9"/>
+  <circle cx="33" cy="63" r="3.2" fill="#fff" fill-opacity=".9"/>
+  <circle cx="67" cy="63" r="3.2" fill="#fff" fill-opacity=".9"/>
+</svg>
