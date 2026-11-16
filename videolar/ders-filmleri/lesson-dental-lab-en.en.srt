@@ -1,0 +1,28 @@
+1
+00:00:20,639 --> 00:00:27,179
+Lecturer · Tooth 46, the occlusal surface, plaque removed. Left: wet. Right: air-dried for five seconds. What is the ICDAS code?
+
+2
+00:00:27,239 --> 00:00:32,479
+Lecturer · You have one minute. Let’s take your predictions by a show of hands.
+
+3
+00:00:32,539 --> 00:00:35,979
+Red team · We say 0: sound surface.
+
+4
+00:00:36,039 --> 00:00:41,979
+Lecturer · Not yet. Remember the rule: look at the surface wet first, then dried.
+
+5
+00:00:42,039 --> 00:00:45,879
+Blue team · Then it is 1: first visual change, seen only after drying.
+
+6
+00:00:45,939 --> 00:00:51,479
+Class · Team Blue hits the target: three points!
+
+7
+00:00:51,539 --> 00:01:00,707
+Lecturer · Now let’s discuss: what should the care plan be for this surface? We read lesion activity at level two.
+

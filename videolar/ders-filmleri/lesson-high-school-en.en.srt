@@ -1,0 +1,36 @@
+1
+00:00:20,639 --> 00:00:26,779
+Teacher · The launch speed is fixed at 15 m/s. The ball must land 11.5 m away. Which angle do we use?
+
+2
+00:00:26,839 --> 00:00:31,479
+Red team · 45 degrees! That one goes the farthest.
+
+3
+00:00:31,539 --> 00:00:39,479
+Teacher · It went 22.9 m: too far. If we lower the angle, what happens to the range? Let’s vote.
+
+4
+00:00:39,539 --> 00:00:47,479
+Class · Most of us say: it goes down.
+
+5
+00:00:47,539 --> 00:00:51,279
+Blue team · Let’s try 15 degrees.
+
+6
+00:00:51,339 --> 00:00:57,479
+Teacher · Spot on! But the task says there are two solutions.
+
+7
+00:00:57,539 --> 00:01:01,279
+Red team · The dashed arc is 75 degrees: together with 15 it makes 90.
+
+8
+00:01:01,339 --> 00:01:06,479
+Teacher · Why the same range? R = v²·sin 2θ / g, and sin 2θ = sin (180° − 2θ).
+
+9
+00:01:06,539 --> 00:01:12,910
+Teacher · Homework: with air resistance, which angle would go farther? Write your prediction in your notebook.
+

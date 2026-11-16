@@ -1,0 +1,28 @@
+1
+00:00:20,639 --> 00:00:27,179
+Öğretim üyesi · Diş 46, okluzal yüzey; plak temizlendi. Solda ıslak, sağda beş saniye kurutulmuş. ICDAS kodu kaç?
+
+2
+00:00:27,239 --> 00:00:32,479
+Öğretim üyesi · Bir dakikanız var. Tahminleri parmak kaldırarak alalım.
+
+3
+00:00:32,539 --> 00:00:35,979
+Kırmızı takım · Bizce 1: yalnızca kurutunca görülen ilk görsel değişiklik.
+
+4
+00:00:36,039 --> 00:00:41,979
+Öğretim üyesi · Olmadı. Kuralı hatırlayın: yüzeye önce ıslakken, sonra kurutunca bakıyoruz.
+
+5
+00:00:42,039 --> 00:00:45,879
+Mavi takım · O zaman 0: sağlam yüzey.
+
+6
+00:00:45,939 --> 00:00:51,479
+Sınıf · Mavi takım hedefi tutturdu: üç puan!
+
+7
+00:00:51,539 --> 00:01:00,707
+Öğretim üyesi · Şimdi tartışalım: bu yüzey için bakım planı ne olmalı? Lezyon aktivitesini ikinci seviyede okuyacağız.
+

@@ -1,0 +1,104 @@
+1
+00:00:08,536 --> 00:00:14,476
+Çatal, katalogdaki bir oyunun senin dersine uyarlanmış hâlidir.
+
+2
+00:00:14,536 --> 00:00:22,063
+Bilimsel model ve sunucu doğrulaması değişmez; her öğrenci aynı güvenilir ölçüyle ilerler.
+
+3
+00:00:22,673 --> 00:00:25,683
+Her şey Kurumlar sayfasında başlıyor.
+
+4
+00:00:25,743 --> 00:00:29,813
+Üç adım: kurumunu ekle, oyunu çatalla, QR ile paylaş.
+
+5
+00:00:29,873 --> 00:00:36,300
+Aşağıdaki sorular, çatalda neyi değiştirebileceğini anlatıyor.
+
+6
+00:00:36,910 --> 00:00:45,940
+1. adım: kurumunu ekle. Adı, kısa bir tanıtım ve logo yeter.
+
+7
+00:00:46,000 --> 00:00:55,190
+Başvuruyu kurumsal e-posta adresinle yaparsın; üniversite ekibi alan adını doğrular.
+
+8
+00:00:55,250 --> 00:01:00,707
+Bu videoda gösterim için oluşturulmuş örnek bir kurum kullanıyoruz.
+
+9
+00:01:01,317 --> 00:01:05,657
+Onaylanınca kurum sayfanda “Onaylı ortak” rozeti görünür.
+
+10
+00:01:05,717 --> 00:01:09,987
+2. adım: yeni ortak oyun. Oyunu ve seviye aralığını seç.
+
+11
+00:01:10,047 --> 00:01:16,817
+Başlığı, ders adını ve öğrencilere tanıtımı kendin yaz.
+
+12
+00:01:16,877 --> 00:01:23,080
+“Çatalla ve oluştur”a bas: oyun iki logoyla yayımlanır.
+
+13
+00:01:23,690 --> 00:01:28,230
+Ortak oyunun kendi sayfası var: logon, İDÜ mührünün yanında.
+
+14
+00:01:28,290 --> 00:01:35,430
+Seviyeler ve soy zinciri aynı sayfada. Yeşil onay, imzanın az önce yeniden doğrulandığını gösterir.
+
+15
+00:01:35,490 --> 00:01:41,385
+Oyunun içinde de üstte iki logolu şerit durur.
+
+16
+00:01:41,995 --> 00:01:49,355
+3. adım: paylaş. Tek tıkla yazdırmaya hazır, QR kodlu A4 afiş.
+
+17
+00:01:49,415 --> 00:01:55,225
+Ya da canlı dersi doğrudan ortak oyundan aç.
+
+18
+00:01:55,285 --> 00:01:59,690
+Öğrenciler hesap açmadan, takma adla katılır.
+
+19
+00:02:00,300 --> 00:02:03,220
+Bir çatal da çatallanabilir.
+
+20
+00:02:03,280 --> 00:02:18,790
+Örnek Lisesi, üniversitenin atölyesini 11. sınıf için uyarlıyor.
+
+21
+00:02:18,850 --> 00:02:24,060
+Yeni sayfa kaynağı gösterir: “Şuradan çatallandı: Örnek Üniversitesi”.
+
+22
+00:02:24,120 --> 00:02:28,165
+Emeğin kaynağı hiçbir zaman kaybolmaz.
+
+23
+00:02:28,775 --> 00:02:32,045
+Soy zinciri: kim neyi, nereden çatalladı?
+
+24
+00:02:32,105 --> 00:02:39,715
+Her blok bir öncekinin SHA-256 özetini taşır ve Ed25519 ile imzalıdır; silinemez, sessizce değiştirilemez.
+
+25
+00:02:39,775 --> 00:02:46,470
+Zincirde kişisel veri yok: yalnız kimlikler ve içerik özetleri.
+
+26
+00:02:47,280 --> 00:03:00,707
+Ücretsiz ve sözleşmesiz: İzmir Demokrasi Üniversitesi’nin açık eğitim projesi.
+

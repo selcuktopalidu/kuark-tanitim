@@ -1,0 +1,104 @@
+1
+00:00:08,536 --> 00:00:14,476
+Une version dérivée, c’est un jeu du catalogue adapté à votre cours.
+
+2
+00:00:14,536 --> 00:00:22,063
+Le modèle scientifique et la vérification par le serveur ne changent pas : chaque élève progresse avec la même mesure fiable.
+
+3
+00:00:22,673 --> 00:00:25,743
+Tout commence sur la page Partenaires.
+
+4
+00:00:25,803 --> 00:00:31,613
+Trois étapes : ajouter votre établissement, dériver un jeu, le partager par QR.
+
+5
+00:00:31,673 --> 00:00:38,334
+Les questions en bas expliquent ce que vous pouvez modifier.
+
+6
+00:00:38,944 --> 00:00:48,044
+Étape 1 : ajoutez votre établissement. Un nom, une courte présentation et un logo suffisent.
+
+7
+00:00:48,104 --> 00:00:57,314
+Vous postulez avec votre adresse e-mail institutionnelle ; l’équipe de l’université vérifie le domaine.
+
+8
+00:00:57,374 --> 00:01:04,775
+Dans cette vidéo, nous utilisons un établissement d’exemple créé pour la démonstration.
+
+9
+00:01:05,385 --> 00:01:11,925
+Une fois vérifiée, la page de votre établissement affiche le badge « Partenaire vérifié ».
+
+10
+00:01:11,985 --> 00:01:16,925
+Étape 2 : un nouveau jeu commun. Choisissez le jeu et les niveaux.
+
+11
+00:01:16,985 --> 00:01:22,795
+Rédigez le titre, le nom du cours et une présentation pour vos élèves.
+
+12
+00:01:22,855 --> 00:01:29,182
+« Dériver et créer » : le jeu est publié avec les deux logos.
+
+13
+00:01:29,792 --> 00:01:34,932
+Le jeu commun a sa propre page : votre logo à côté du sceau de l’İDÜ.
+
+14
+00:01:34,992 --> 00:01:43,332
+Les niveaux et la filiation sont sur la même page. Une coche verte signifie que la signature vient d’être revérifiée.
+
+15
+00:01:43,392 --> 00:01:49,521
+Dans le jeu, un bandeau avec les deux logos reste en haut.
+
+16
+00:01:50,131 --> 00:01:57,401
+Étape 3 : partagez. Un clic donne une affiche A4 avec QR code, prête à imprimer.
+
+17
+00:01:57,461 --> 00:02:03,341
+Ou lancez un cours en direct depuis le jeu commun.
+
+18
+00:02:03,401 --> 00:02:07,826
+Les élèves participent sans compte, avec un pseudonyme.
+
+19
+00:02:08,436 --> 00:02:12,176
+Une version dérivée peut elle-même être dérivée.
+
+20
+00:02:12,236 --> 00:02:27,676
+Le Lycée Exemple adapte l’atelier de l’université pour la classe de première.
+
+21
+00:02:27,736 --> 00:02:32,876
+La nouvelle page montre l’origine : « Dérivé de Université Exemple ».
+
+22
+00:02:32,936 --> 00:02:38,334
+L’origine du travail reste toujours visible.
+
+23
+00:02:38,944 --> 00:02:43,154
+Le registre de filiation : qui a dérivé quoi, et d’où ?
+
+24
+00:02:43,214 --> 00:02:52,954
+Chaque bloc porte l’empreinte SHA-256 du précédent et il est signé avec Ed25519 : impossible de le supprimer ou de le modifier en silence.
+
+25
+00:02:53,014 --> 00:03:00,707
+Le registre ne contient aucune donnée personnelle, seulement des identifiants et des empreintes.
+
+26
+00:03:01,517 --> 00:03:14,944
+Gratuit et sans contrat : un projet d’éducation ouverte de l’Izmir Demokrasi University.
+

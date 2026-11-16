@@ -1,0 +1,104 @@
+1
+00:00:08,536 --> 00:00:14,476
+Un fork è un gioco del catalogo adattato al tuo corso.
+
+2
+00:00:14,536 --> 00:00:22,063
+Il modello scientifico e la verifica sul server restano gli stessi: ogni studente avanza con la stessa misura affidabile.
+
+3
+00:00:22,673 --> 00:00:25,483
+Tutto parte dalla pagina Partners.
+
+4
+00:00:25,543 --> 00:00:31,753
+Tre passi: aggiungi il tuo istituto, crea il fork di un gioco, condividilo con un QR.
+
+5
+00:00:31,813 --> 00:00:38,334
+Le domande in fondo spiegano che cosa puoi cambiare in un fork.
+
+6
+00:00:38,944 --> 00:00:47,824
+Passo 1: aggiungi il tuo istituto. Bastano un nome, una breve descrizione e un logo.
+
+7
+00:00:47,884 --> 00:00:57,144
+La richiesta parte dal tuo indirizzo e-mail istituzionale; il team dell’università verifica il dominio.
+
+8
+00:00:57,204 --> 00:01:04,775
+In questo video usiamo un istituto di esempio creato per la dimostrazione.
+
+9
+00:01:05,385 --> 00:01:11,255
+Dopo la verifica, la pagina del tuo istituto mostra il badge “Verified partner”.
+
+10
+00:01:11,315 --> 00:01:16,985
+Passo 2: un nuovo gioco condiviso. Scegli il gioco e l’intervallo di livelli.
+
+11
+00:01:17,045 --> 00:01:22,725
+Scrivi il titolo, il nome del corso e una presentazione per i tuoi studenti.
+
+12
+00:01:22,785 --> 00:01:29,182
+Premi “Fork and create”: il gioco viene pubblicato con entrambi i loghi.
+
+13
+00:01:29,792 --> 00:01:35,932
+Il gioco condiviso ha una pagina tutta sua: il tuo logo accanto al sigillo dell’İDÜ.
+
+14
+00:01:35,992 --> 00:01:44,462
+Livelli e discendenza sono sulla stessa pagina. La spunta verde indica che la firma è appena stata verificata di nuovo.
+
+15
+00:01:44,522 --> 00:01:49,521
+Dentro il gioco resta in alto una fascia con entrambi i loghi.
+
+16
+00:01:50,131 --> 00:01:57,711
+Passo 3: condividi. Con un clic ottieni un poster A4 con QR code, pronto da stampare.
+
+17
+00:01:57,771 --> 00:02:04,621
+Oppure avvia una lezione dal vivo direttamente dal gioco condiviso.
+
+18
+00:02:04,681 --> 00:02:09,859
+Gli studenti partecipano senza account, con un nickname.
+
+19
+00:02:10,469 --> 00:02:13,409
+Anche un fork può avere un suo fork.
+
+20
+00:02:13,469 --> 00:02:29,289
+Example High School adatta il laboratorio dell’università alle sue classi.
+
+21
+00:02:29,349 --> 00:02:34,359
+La nuova pagina mostra l’origine: “Forked from Example University”.
+
+22
+00:02:34,419 --> 00:02:38,334
+L’origine del lavoro resta sempre visibile.
+
+23
+00:02:38,944 --> 00:02:44,014
+Il registro di discendenza: chi ha fatto il fork di cosa, e da dove?
+
+24
+00:02:44,074 --> 00:02:52,944
+Ogni blocco contiene l’hash SHA-256 del precedente ed è firmato con Ed25519: non si può cancellare né modificare di nascosto.
+
+25
+00:02:53,004 --> 00:03:00,707
+Il registro non contiene dati personali, solo identificativi e hash dei contenuti.
+
+26
+00:03:01,517 --> 00:03:14,944
+Gratuito e senza contratto: un progetto di educazione aperta della Izmir Demokrasi University.
+

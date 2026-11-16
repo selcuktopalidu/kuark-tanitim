@@ -1,0 +1,36 @@
+1
+00:00:20,639 --> 00:00:26,779
+Öğretmen · Atış hızı 25 m/s, sabit. Top 55,4 m uzağa düşmeli. Hangi açıyla atarız?
+
+2
+00:00:26,839 --> 00:00:31,479
+Kırmızı takım · 45 derece! En uzağa o gider.
+
+3
+00:00:31,539 --> 00:00:39,479
+Öğretmen · Top 63,7 m gitti, fazla uzak. Açıyı küçültürsek menzil ne olur? Oylayalım.
+
+4
+00:00:39,539 --> 00:00:47,479
+Sınıf · Çoğunluk diyor ki: azalır.
+
+5
+00:00:47,539 --> 00:00:51,279
+Mavi takım · 30 dereceyi deneyelim.
+
+6
+00:00:51,339 --> 00:00:57,479
+Öğretmen · Tam isabet! Ama görev “iki çözüm var” diyor.
+
+7
+00:00:57,539 --> 00:01:01,279
+Kırmızı takım · Kesikli yay 60 derece: 30 ile toplamı 90.
+
+8
+00:01:01,339 --> 00:01:06,479
+Öğretmen · Neden aynı menzil? R = v²·sin 2θ / g ve sin 2θ = sin (180° − 2θ).
+
+9
+00:01:06,539 --> 00:01:12,910
+Öğretmen · Ödev: hava direnci olsaydı hangi açı daha uzağa giderdi? Tahmininizi defterinize yazın.
+
