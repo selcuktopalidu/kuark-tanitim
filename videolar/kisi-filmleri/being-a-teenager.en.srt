@@ -1,0 +1,124 @@
+1
+00:00:00,300 --> 00:00:03,440
+You’re sixteen, and the formulas keep coming.
+
+2
+00:00:03,500 --> 00:00:05,640
+Pendulums.
+
+3
+00:00:05,700 --> 00:00:07,840
+Gases.
+
+4
+00:00:07,900 --> 00:00:11,340
+Trigonometry.
+
+5
+00:00:11,400 --> 00:00:20,029
+What if you could discover them, instead of memorising them?
+
+6
+00:00:28,775 --> 00:00:33,215
+In high school, the motto changes: discover the formula yourself.
+
+7
+00:00:33,275 --> 00:00:37,815
+Change the launch angle and watch the range respond.
+
+8
+00:00:37,875 --> 00:00:40,415
+Two different angles hit the same target.
+
+9
+00:00:40,475 --> 00:00:42,615
+Can you explain why?
+
+10
+00:00:42,675 --> 00:00:49,615
+Change a pendulum’s length, and the clock’s rhythm changes with it.
+
+11
+00:00:49,675 --> 00:00:58,673
+Slope, derivative and area stop being symbols and become something you can see.
+
+12
+00:00:59,283 --> 00:01:02,523
+Some formulas come with centuries-old stories.
+
+13
+00:01:02,583 --> 00:01:11,023
+Measure a mountain and the horizon, and estimate the size of the Earth, like al-Biruni.
+
+14
+00:01:11,083 --> 00:01:19,023
+Find your latitude and local time with an astrolabe.
+
+15
+00:01:19,083 --> 00:01:29,182
+And explore sound waves, echoes and resonance with acoustic jars.
+
+16
+00:01:29,792 --> 00:01:31,832
+It’s not only about exams.
+
+17
+00:01:31,892 --> 00:01:38,532
+Life-skills labs for young people let you practise communication, problem solving and decisions.
+
+18
+00:01:38,592 --> 00:01:40,932
+Plan your week.
+
+19
+00:01:40,992 --> 00:01:43,332
+Map your stress.
+
+20
+00:01:43,392 --> 00:01:45,932
+Build a student budget.
+
+21
+00:01:45,992 --> 00:01:59,690
+And the AI-literacy games show how a language model picks its next word, so you can use AI wisely.
+
+22
+00:02:00,300 --> 00:02:01,940
+Your progress is yours.
+
+23
+00:02:02,000 --> 00:02:08,540
+Your student profile stays private, and an optional photo never leaves your device.
+
+24
+00:02:08,600 --> 00:02:12,940
+Share cards leave out your school details unless you choose them.
+
+25
+00:02:13,000 --> 00:02:18,140
+Your school number never appears on a card.
+
+26
+00:02:18,200 --> 00:02:24,340
+And the weekly top list? It’s off for new accounts until you turn it on.
+
+27
+00:02:24,400 --> 00:02:30,198
+Proud of your progress? Earn an achievement card anyone can verify by QR code.
+
+28
+00:02:30,708 --> 00:02:32,048
+Being a teenager at İDÜ Lab means this:
+
+29
+00:02:32,108 --> 00:02:34,048
+You don’t just learn the formula.
+
+30
+00:02:34,108 --> 00:02:38,048
+You discover it.
+
+31
+00:02:38,108 --> 00:02:46,470
+Got an idea for a game? Your teachers can build it in Guest Studio, no code needed.
+

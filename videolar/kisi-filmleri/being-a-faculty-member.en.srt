@@ -1,0 +1,100 @@
+1
+00:00:00,300 --> 00:00:06,840
+Every discipline has one concept that students struggle to see.
+
+2
+00:00:06,900 --> 00:00:10,340
+In your course, which one is it?
+
+3
+00:00:10,400 --> 00:00:20,029
+At İDÜ Lab, it can become a game your students play in the lecture hall.
+
+4
+00:00:28,775 --> 00:00:34,415
+The university section already holds more than ninety games across nine faculties.
+
+5
+00:00:34,475 --> 00:00:41,015
+Each one models a difficult concept, so students learn by testing rather than by memorising.
+
+6
+00:00:41,075 --> 00:00:46,415
+Run them in a lecture-hall competition, or in projector and board mode.
+
+7
+00:00:46,475 --> 00:00:58,673
+Is your topic missing? Lecturers from any university can request a game: the team designs it around the predict–test–explain loop, tests it with you and publishes it.
+
+8
+00:00:59,283 --> 00:01:01,123
+Your contribution is visible.
+
+9
+00:01:01,183 --> 00:01:07,523
+Game proposers are named on the academic contribution page, alongside authors and supporters.
+
+10
+00:01:07,583 --> 00:01:14,323
+Pick the version you used and export the citation: APA, BibTeX, RIS, CSL JSON or CFF.
+
+11
+00:01:14,383 --> 00:01:21,123
+And the contributors page follows each idea from proposal to published game.
+
+12
+00:01:21,183 --> 00:01:29,182
+Name the contribution. Cite the work.
+
+13
+00:01:29,792 --> 00:01:32,232
+It is also a research platform.
+
+14
+00:01:32,292 --> 00:01:41,232
+Kuark, the platform’s guide, improves through open causal research.
+
+15
+00:01:41,292 --> 00:01:47,632
+Participation is voluntary, conditions are randomly assigned, and outcomes are verified by the server.
+
+16
+00:01:47,692 --> 00:01:53,232
+An improvement goes live only after the evidence supports it.
+
+17
+00:01:53,292 --> 00:01:59,690
+And a manuscript draft is never presented as a published finding.
+
+18
+00:02:00,300 --> 00:02:02,140
+Bring your department in.
+
+19
+00:02:02,200 --> 00:02:10,540
+Fork a game for your own course: choose the levels, name it, and publish it with your logo next to ours.
+
+20
+00:02:10,600 --> 00:02:19,340
+The engine and verification stay the same, and every fork goes into a signed lineage ledger anyone can check.
+
+21
+00:02:19,400 --> 00:02:30,198
+And for students, the games stay free, in twenty-five languages.
+
+22
+00:02:30,708 --> 00:02:32,048
+Being a faculty member at İDÜ Lab means this:
+
+23
+00:02:32,108 --> 00:02:34,048
+Your hardest concept
+
+24
+00:02:34,108 --> 00:02:38,048
+becomes your students’ favourite level.
+
+25
+00:02:38,108 --> 00:02:46,470
+Let’s build it together.
+

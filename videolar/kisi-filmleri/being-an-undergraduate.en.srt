@@ -1,0 +1,112 @@
+1
+00:00:00,300 --> 00:00:03,040
+Some ideas are hard to see.
+
+2
+00:00:03,100 --> 00:00:06,040
+Continuity.
+
+3
+00:00:06,100 --> 00:00:09,040
+Volumes of revolution.
+
+4
+00:00:09,100 --> 00:00:12,040
+Quantum spin.
+
+5
+00:00:12,100 --> 00:00:15,040
+Bayes’ theorem.
+
+6
+00:00:15,100 --> 00:00:20,029
+What if you could test them, level by level?
+
+7
+00:00:28,775 --> 00:00:35,815
+The university section is built around one idea: model difficult concepts, and learn by testing.
+
+8
+00:00:35,875 --> 00:00:44,415
+More than ninety games across nine faculties: mathematics, psychology, archaeology, music, economics, law and more.
+
+9
+00:00:44,475 --> 00:00:50,815
+Change a parameter, make a prediction, and see what the model does.
+
+10
+00:00:50,875 --> 00:00:58,673
+Then explain it in your own words.
+
+11
+00:00:59,283 --> 00:01:01,823
+Then come the ten main worlds.
+
+12
+00:01:01,883 --> 00:01:11,123
+Quantum spin, language models, blockchain, game theory, clean energy, genomics, cybersecurity, ecology and the hunt for new planets.
+
+13
+00:01:11,183 --> 00:01:19,923
+Finish three quarters of the levels in every world with server-verified results, and you earn an achievement card.
+
+14
+00:01:19,983 --> 00:01:29,182
+Anyone can scan its QR code to check that it’s genuine.
+
+15
+00:01:29,792 --> 00:01:33,032
+In the lecture hall, everyone plays together.
+
+16
+00:01:33,092 --> 00:01:39,632
+Teams join by QR code with just a team name: no accounts, no personal data.
+
+17
+00:01:39,692 --> 00:01:48,032
+In board mode, the whole hall predicts by a show of hands, and groups take turns at the big screen.
+
+18
+00:01:48,092 --> 00:01:55,032
+Every solution is recomputed on the server, so the leaderboard counts verified solutions only.
+
+19
+00:01:55,092 --> 00:01:59,690
+And yes, it gets competitive.
+
+20
+00:02:00,300 --> 00:02:03,040
+Every week brings a new science mission.
+
+21
+00:02:03,100 --> 00:02:07,340
+One star, TRAPPIST-1, and real catalogue data.
+
+22
+00:02:07,400 --> 00:02:13,540
+How many orbits in a month? How much light is blocked?
+
+23
+00:02:13,600 --> 00:02:19,540
+And just as important: what can the data not tell us?
+
+24
+00:02:19,600 --> 00:02:30,198
+That question is where real research begins.
+
+25
+00:02:30,708 --> 00:02:32,048
+Being an undergraduate at İDÜ Lab means this:
+
+26
+00:02:32,108 --> 00:02:34,048
+Difficult ideas become
+
+27
+00:02:34,108 --> 00:02:38,048
+experiments you can run.
+
+28
+00:02:38,108 --> 00:02:46,470
+And every skill you master can join your Science Passport as a signed, verifiable badge.
+

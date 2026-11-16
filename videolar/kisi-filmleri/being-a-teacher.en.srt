@@ -1,0 +1,108 @@
+1
+00:00:00,300 --> 00:00:06,240
+Monday morning. Thirty students, forty minutes and one tricky concept.
+
+2
+00:00:06,300 --> 00:00:13,440
+What if your students could discover it themselves, while you guide them?
+
+3
+00:00:13,500 --> 00:00:20,029
+Welcome to the teacher’s side of İDÜ Lab.
+
+4
+00:00:28,775 --> 00:00:33,615
+The teaching guide starts from one simple idea: one lesson, one game.
+
+5
+00:00:33,675 --> 00:00:39,715
+A forty-minute lesson flow helps you plan the whole period.
+
+6
+00:00:39,775 --> 00:00:48,415
+Games are aligned with the Türkiye Yüzyılı Maarif Modeli, and every world page lists its levels and key concepts.
+
+7
+00:00:48,475 --> 00:00:53,015
+Students can play the first three levels without an account.
+
+8
+00:00:53,075 --> 00:00:58,673
+And the science guides can be read and printed, even without JavaScript.
+
+9
+00:00:59,283 --> 00:01:00,923
+In class, open a room.
+
+10
+00:01:00,983 --> 00:01:07,923
+Teams join with a room code and a team name: no accounts and no personal data.
+
+11
+00:01:07,983 --> 00:01:15,923
+No phones at school? Teams join from the computer lab, or the class plays in board mode.
+
+12
+00:01:15,983 --> 00:01:21,923
+Everyone predicts, groups take turns, and the whole room sees the result.
+
+13
+00:01:21,983 --> 00:01:29,182
+It’s loud, it’s fun, and it’s real science.
+
+14
+00:01:29,792 --> 00:01:36,932
+Short on time? Open a ready-made lesson and go.
+
+15
+00:01:36,992 --> 00:01:43,232
+School codes connect your students to your school.
+
+16
+00:01:43,292 --> 00:01:50,232
+With Science Passport class assignments, the server checks each result in its own game engine.
+
+17
+00:01:50,292 --> 00:01:55,232
+Achievements become signed Open Badges that anyone can verify.
+
+18
+00:01:55,292 --> 00:01:59,690
+Evidence, not guesswork.
+
+19
+00:02:00,300 --> 00:02:02,940
+Is there a topic no game covers yet?
+
+20
+00:02:03,000 --> 00:02:07,140
+Request one, from anywhere in the world, without an account.
+
+21
+00:02:07,200 --> 00:02:12,340
+Describe the topic, the level and what your students should understand.
+
+22
+00:02:12,400 --> 00:02:19,540
+You get a tracking code; the team designs the game, tests it with you and publishes it.
+
+23
+00:02:19,600 --> 00:02:30,198
+Or build your school’s own game in Guest Studio: no code needed, reviewed by the university team, and published under your school’s name.
+
+24
+00:02:30,708 --> 00:02:32,048
+Being a teacher at İDÜ Lab means this:
+
+25
+00:02:32,108 --> 00:02:34,048
+You don’t hand out the answers.
+
+26
+00:02:34,108 --> 00:02:38,048
+You guide the discovery.
+
+27
+00:02:38,108 --> 00:02:46,470
+And your students own what they discover.
+

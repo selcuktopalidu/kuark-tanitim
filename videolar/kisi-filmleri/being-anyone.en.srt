@@ -1,0 +1,124 @@
+1
+00:00:00,300 --> 00:00:02,740
+You don’t need to be a student.
+
+2
+00:00:02,800 --> 00:00:04,340
+Or a teacher.
+
+3
+00:00:04,400 --> 00:00:06,240
+Or a scientist.
+
+4
+00:00:06,300 --> 00:00:09,540
+You just need to be curious.
+
+5
+00:00:09,600 --> 00:00:20,029
+İDÜ Lab is open to anyone who has ever wondered how the world works.
+
+6
+00:00:28,775 --> 00:00:30,615
+Start with the science guide.
+
+7
+00:00:30,675 --> 00:00:32,815
+It begins with everyday questions.
+
+8
+00:00:32,875 --> 00:00:37,015
+What will your phone’s keyboard suggest next?
+
+9
+00:00:37,075 --> 00:00:41,215
+Which record in a ledger was changed later?
+
+10
+00:00:41,275 --> 00:00:45,415
+How do you keep an island lit after sunset?
+
+11
+00:00:45,475 --> 00:00:58,673
+Each question opens a world you can play, from language models and blockchain to clean energy and DNA.
+
+12
+00:00:59,283 --> 00:01:03,123
+Every week there’s a new science mission, open to everyone.
+
+13
+00:01:03,183 --> 00:01:08,823
+Take TRAPPIST-1: one star, real catalogue data, and planets you can measure.
+
+14
+00:01:08,883 --> 00:01:13,923
+You learn what the data can tell you, and what it cannot.
+
+15
+00:01:13,983 --> 00:01:17,323
+That’s science, honestly told.
+
+16
+00:01:17,383 --> 00:01:23,523
+Then keep exploring in Planet hunt, one of the ten main worlds.
+
+17
+00:01:23,583 --> 00:01:29,182
+Or find your latitude with an astrolabe.
+
+18
+00:01:29,792 --> 00:01:31,432
+Explore the corners.
+
+19
+00:01:31,492 --> 00:01:35,832
+The museum corner.
+
+20
+00:01:35,892 --> 00:01:42,132
+Scientists from Türkiye.
+
+21
+00:01:42,192 --> 00:01:48,432
+Mimar Sinan’s architecture.
+
+22
+00:01:48,492 --> 00:01:54,732
+Science Bridges between Türkiye and countries such as Japan, Germany and Hungary.
+
+23
+00:01:54,792 --> 00:01:59,690
+And life-skills labs for planning, budgeting and coping with stress.
+
+24
+00:02:00,300 --> 00:02:11,340
+Play your way, in twenty-five languages.
+
+25
+00:02:11,400 --> 00:02:17,740
+On any phone, tablet or computer, with nothing to install.
+
+26
+00:02:17,800 --> 00:02:24,040
+Not sure where to begin? Kuark suggests games from your age and interests, and explains why.
+
+27
+00:02:24,100 --> 00:02:30,198
+Questions? Ask in the forum, right next to every game.
+
+28
+00:02:30,708 --> 00:02:32,048
+So, who is İDÜ Lab for?
+
+29
+00:02:32,108 --> 00:02:34,048
+Anyone who asks why.
+
+30
+00:02:34,108 --> 00:02:38,048
+Including you.
+
+31
+00:02:38,108 --> 00:02:46,470
+And if you’re a science communicator, an artist or an athlete, Guest Studio can help you build a game of your own.
+
