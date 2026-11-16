@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>İDÜ Lab · KuARK</title>
-<meta name="description" content="KuARK · İDÜ Lab: free science games from primary school to university, in 25 languages. İlkokuldan üniversiteye, 25 dilde ücretsiz bilim oyunları.">
+<meta name="description" content="KuARK · İDÜ Lab: free science games from primary school to university, in 26 languages. İlkokuldan üniversiteye, 26 dilde ücretsiz bilim oyunları.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="KuARK · İDÜ Lab">
-<meta property="og:description" content="The same science lab for every learner: 150+ free games, 3,000+ levels, 25 languages. Her öğrenciye aynı bilim laboratuvarı.">
+<meta property="og:description" content="The same science lab for every learner: 150+ free games, 3,000+ levels, 26 languages. Her öğrenciye aynı bilim laboratuvarı.">
 <meta property="og:url" content="https://selcuktopalidu.github.io/kuark-tanitim/">
 <meta property="og:image" content="https://selcuktopalidu.github.io/kuark-tanitim/img/onizleme.jpg">
 <meta property="og:image:width" content="1200">
@@ -130,6 +130,7 @@ footer a{color:var(--paper)}
 @media (prefers-reduced-motion:no-preference){
   .btn,.copy{transition:filter .15s ease,border-color .15s ease}
 }
+.posters.five{grid-template-columns:repeat(5,minmax(0,1fr))}@media (max-width:900px){.posters.five{grid-template-columns:repeat(2,minmax(0,1fr))}}
 </style>
 </head>
 <body>
@@ -150,14 +151,15 @@ footer a{color:var(--paper)}
 <div class="hero">
   <div>
     <h1><span class="l-en">Science you can play, from primary school to university.</span><span class="l-tr">Bilimi oynayarak öğren: ilkokuldan üniversiteye.</span></h1>
-    <p class="lead l-en">KuARK is a free, non-commercial platform of science games built at Izmir Demokrasi University: <strong>150+ games and 3,000+ levels, in 25 languages.</strong></p>
-    <p class="lead l-tr">KuARK, İzmir Demokrasi Üniversitesi’nde geliştirilen ücretsiz ve ticari olmayan bir bilim oyunları platformu: <strong>150’den fazla oyun, 3.000’den fazla seviye, 25 dil.</strong></p>
+    <p class="lead l-en">KuARK is a free, non-commercial platform of science games built at Izmir Demokrasi University: <strong>150+ games and 3,000+ levels, in 26 languages.</strong></p>
+    <p class="lead l-tr">KuARK, İzmir Demokrasi Üniversitesi’nde geliştirilen ücretsiz ve ticari olmayan bir bilim oyunları platformu: <strong>150’den fazla oyun, 3.000’den fazla seviye, 26 dil.</strong></p>
     <div class="actions">
       <a class="btn main" href="https://oyun.idu.edu.tr" target="_blank" rel="noopener"><span class="l-en">Open the platform</span><span class="l-tr">Platformu aç</span>
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+      <a class="btn ghost" href="https://kuark-production.up.railway.app/" target="_blank" rel="noopener"><span class="l-en">Try the live demo</span><span class="l-tr">Canlı demoyu dene</span></a>
       <a class="btn ghost" href="#partner"><span class="l-en">Work with us</span><span class="l-tr">Birlikte çalışalım</span></a>
     </div>
-    <p class="addr"><code>oyun.idu.edu.tr</code> · <span class="l-en">opening soon; write to us for early access.</span><span class="l-tr">yakında açılıyor; erken erişim için bize yazın.</span></p>
+    <p class="addr"><code>oyun.idu.edu.tr</code> · <span class="l-en">opening soon; until then, the latest version runs at <a href="https://kuark-production.up.railway.app/">kuark-production.up.railway.app</a>.</span><span class="l-tr">yakında açılıyor; o zamana kadar son sürüm <a href="https://kuark-production.up.railway.app/">kuark-production.up.railway.app</a> adresinde.</span></p>
   </div>
   <div class="mosaic">
     <figure class="board"><img data-k="i2" src="img/i2-en.webp" width="1024" height="717" alt="Pattern Train board: an isometric train whose carriages repeat a pattern, one carriage missing" data-tr-alt="Örüntü Treni tahtası: vagonları bir örüntüyü tekrarlayan izometrik bir tren, bir vagon eksik"><figcaption><span class="chip s1"><span class="l-en">Primary</span><span class="l-tr">İlkokul</span></span><span class="chip n"><span class="l-en">Pattern Train</span><span class="l-tr">Örüntü Treni</span></span></figcaption></figure>
@@ -208,14 +210,14 @@ footer a{color:var(--paper)}
 </section>
 
 <section aria-labelledby="h-langs">
-  <h2 id="h-langs"><span class="l-en">25 languages</span><span class="l-tr">25 dil</span></h2>
+  <h2 id="h-langs"><span class="l-en">26 languages</span><span class="l-tr">26 dil</span></h2>
   <p class="intro l-en">The platform opens in the visitor’s own language when it is one of these.</p>
   <p class="intro l-tr">Ziyaretçinin dili bunlardan biriyse platform o dilde açılır.</p>
   <ul class="tongues">
-    <li class="base" lang="tr">Türkçe</li><li class="base" lang="en">English</li><li lang="de">Deutsch</li><li lang="fr">Français</li><li lang="es">Español</li><li lang="ar" dir="rtl">العربية</li><li lang="fa" dir="rtl">فارسی</li><li lang="ru">Русский</li><li lang="zh">中文</li><li lang="ka">ქართული</li><li lang="ku">Kurdî (Kurmancî)</li><li lang="zza">Kirmanckî (Zazakî)</li><li lang="az">Azərbaycanca</li><li lang="tk">Türkmençe</li><li lang="gag">Gagauz dili</li><li lang="kk">Қазақша</li><li lang="ky">Кыргызча</li><li lang="uz">Oʻzbekcha</li><li lang="tt">Татарча</li><li lang="ba">Башҡортса</li><li lang="kaa">Qaraqalpaqsha</li><li lang="kum">Къумукъ тил</li><li lang="nog">Ногай тили</li><li lang="kdr">Karaj tili</li><li lang="krc">Къарачай-малкъарча</li>
+    <li class="base" lang="tr">Türkçe</li><li class="base" lang="en">English</li><li lang="de">Deutsch</li><li lang="fr">Français</li><li lang="es">Español</li><li lang="it">Italiano</li><li lang="ar" dir="rtl">العربية</li><li lang="fa" dir="rtl">فارسی</li><li lang="ru">Русский</li><li lang="zh">中文</li><li lang="ka">ქართული</li><li lang="ku">Kurdî (Kurmancî)</li><li lang="zza">Kirmanckî (Zazakî)</li><li lang="az">Azərbaycanca</li><li lang="tk">Türkmençe</li><li lang="gag">Gagauz dili</li><li lang="kk">Қазақша</li><li lang="ky">Кыргызча</li><li lang="uz">Oʻzbekcha</li><li lang="tt">Татарча</li><li lang="ba">Башҡортса</li><li lang="kaa">Qaraqalpaqsha</li><li lang="kum">Къумукъ тил</li><li lang="nog">Ногай тили</li><li lang="kdr">Karaj tili</li><li lang="krc">Къарачай-малкъарча</li>
   </ul>
-  <p class="note l-en">We are looking for educators who speak these languages natively to review the 23 translated language packs.</p>
-  <p class="note l-tr">Çevrilen 23 dil paketini gözden geçirecek, bu dilleri anadili olarak konuşan eğitimciler arıyoruz.</p>
+  <p class="note l-en">We are looking for educators who speak these languages natively to review the 24 translated language packs.</p>
+  <p class="note l-tr">Çevrilen 24 dil paketini gözden geçirecek, bu dilleri anadili olarak konuşan eğitimciler arıyoruz.</p>
 </section>
 
 <section id="posters" aria-labelledby="h-posters">
@@ -225,6 +227,11 @@ footer a{color:var(--paper)}
   <div class="posters l-en"><figure class="poster"><a class="thumb" href="afisler/1-equal-lab-en.jpg"><img src="afisler/kucuk/1-equal-lab-en.jpg" width="640" height="905" loading="lazy" alt="1 · The same science lab for every learner"></a><figcaption><b>1 · The same science lab for every learner</b><span class="dl"><a href="afisler/1-equal-lab-en.pdf">PDF</a><a href="afisler/1-equal-lab-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/2-lab-in-every-pocket-en.jpg"><img src="afisler/kucuk/2-lab-in-every-pocket-en.jpg" width="640" height="905" loading="lazy" alt="2 · A science lab in every pocket"></a><figcaption><b>2 · A science lab in every pocket</b><span class="dl"><a href="afisler/2-lab-in-every-pocket-en.pdf">PDF</a><a href="afisler/2-lab-in-every-pocket-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/3-learn-by-playing-en.jpg"><img src="afisler/kucuk/3-learn-by-playing-en.jpg" width="640" height="905" loading="lazy" alt="3 · Learn science by playing it"></a><figcaption><b>3 · Learn science by playing it</b><span class="dl"><a href="afisler/3-learn-by-playing-en.pdf">PDF</a><a href="afisler/3-learn-by-playing-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/4-shared-heritage-en.jpg"><img src="afisler/kucuk/4-shared-heritage-en.jpg" width="640" height="905" loading="lazy" alt="4 · Science from a shared heritage"></a><figcaption><b>4 · Science from a shared heritage</b><span class="dl"><a href="afisler/4-shared-heritage-en.pdf">PDF</a><a href="afisler/4-shared-heritage-en.jpg">JPG</a></span></figcaption></figure></div>
   <div class="posters l-tr"><figure class="poster"><a class="thumb" href="afisler/1-ayni-laboratuvar-tr.jpg"><img src="afisler/kucuk/1-ayni-laboratuvar-tr.jpg" width="640" height="905" loading="lazy" alt="1 · Her öğrenciye aynı bilim laboratuvarı"></a><figcaption><b>1 · Her öğrenciye aynı bilim laboratuvarı</b><span class="dl"><a href="afisler/1-ayni-laboratuvar-tr.pdf">PDF</a><a href="afisler/1-ayni-laboratuvar-tr.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/2-her-cepte-laboratuvar-tr.jpg"><img src="afisler/kucuk/2-her-cepte-laboratuvar-tr.jpg" width="640" height="905" loading="lazy" alt="2 · Her cepte bir bilim laboratuvarı"></a><figcaption><b>2 · Her cepte bir bilim laboratuvarı</b><span class="dl"><a href="afisler/2-her-cepte-laboratuvar-tr.pdf">PDF</a><a href="afisler/2-her-cepte-laboratuvar-tr.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/3-oynayarak-ogren-tr.jpg"><img src="afisler/kucuk/3-oynayarak-ogren-tr.jpg" width="640" height="905" loading="lazy" alt="3 · Bilimi oynayarak öğren"></a><figcaption><b>3 · Bilimi oynayarak öğren</b><span class="dl"><a href="afisler/3-oynayarak-ogren-tr.pdf">PDF</a><a href="afisler/3-oynayarak-ogren-tr.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/4-ortak-miras-tr.jpg"><img src="afisler/kucuk/4-ortak-miras-tr.jpg" width="640" height="905" loading="lazy" alt="4 · Ortak mirastan bilim"></a><figcaption><b>4 · Ortak mirastan bilim</b><span class="dl"><a href="afisler/4-ortak-miras-tr.pdf">PDF</a><a href="afisler/4-ortak-miras-tr.jpg">JPG</a></span></figcaption></figure></div>
   <p class="actions"><a class="btn ghost l-en" href="afisler/KuARK-posters-en.pdf">All four posters in one PDF</a><a class="btn ghost l-tr" href="afisler/KuARK-afisler-tr.pdf">Dört afiş tek PDF’te</a><a class="btn ghost l-en" href="afisler/KuARK-afisler-tr.pdf">In Turkish</a><a class="btn ghost l-tr" href="afisler/KuARK-posters-en.pdf">İngilizcesi</a><a class="btn ghost" href="afisler/qr-kartlari.pdf"><span class="l-en">QR cards to print (A4, 10 cards)</span><span class="l-tr">Basılacak QR kartları (A4, 10 kart)</span></a></p>
+  <h3 id="going-global" style="margin:34px 0 8px"><span class="l-en">Going Global 2026, İstanbul: a five-page poster</span><span class="l-tr">Going Global 2026, İstanbul: beş sayfalık afiş</span></h3>
+  <p class="intro l-en">How KuARK teaches, the technology behind it, equity at scale in 26 languages, and ways to partner. In English, A4.</p>
+  <p class="intro l-tr">KuARK’ın nasıl öğrettiği, arkasındaki teknoloji, 26 dilde fırsat eşitliği ve ortaklık yolları. İngilizce, A4.</p>
+  <div class="posters five"><figure class="poster"><a class="thumb" href="afisler/going-global-1-en.jpg"><img src="afisler/kucuk/going-global-1-en.jpg" width="640" height="905" loading="lazy" alt="1 · Play the science. Prove the learning."></a><figcaption><b>1 · Play the science. Prove the learning.</b><span class="dl"><a href="afisler/going-global-1-en.pdf">PDF</a><a href="afisler/going-global-1-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/going-global-2-en.jpg"><img src="afisler/kucuk/going-global-2-en.jpg" width="640" height="905" loading="lazy" alt="2 · Every game is a laboratory."></a><figcaption><b>2 · Every game is a laboratory.</b><span class="dl"><a href="afisler/going-global-2-en.pdf">PDF</a><a href="afisler/going-global-2-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/going-global-3-en.jpg"><img src="afisler/kucuk/going-global-3-en.jpg" width="640" height="905" loading="lazy" alt="3 · Light to run. Hard to fake."></a><figcaption><b>3 · Light to run. Hard to fake.</b><span class="dl"><a href="afisler/going-global-3-en.pdf">PDF</a><a href="afisler/going-global-3-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/going-global-4-en.jpg"><img src="afisler/kucuk/going-global-4-en.jpg" width="640" height="905" loading="lazy" alt="4 · Equity at scale, in 26 languages."></a><figcaption><b>4 · Equity at scale, in 26 languages.</b><span class="dl"><a href="afisler/going-global-4-en.pdf">PDF</a><a href="afisler/going-global-4-en.jpg">JPG</a></span></figcaption></figure><figure class="poster"><a class="thumb" href="afisler/going-global-5-en.jpg"><img src="afisler/kucuk/going-global-5-en.jpg" width="640" height="905" loading="lazy" alt="5 · Fork a game. Teach it your way."></a><figcaption><b>5 · Fork a game. Teach it your way.</b><span class="dl"><a href="afisler/going-global-5-en.pdf">PDF</a><a href="afisler/going-global-5-en.jpg">JPG</a></span></figcaption></figure></div>
+  <p class="actions"><a class="btn ghost" href="afisler/KuARK-going-global-en.pdf"><span class="l-en">All five pages in one PDF</span><span class="l-tr">Beş sayfa tek PDF’te</span></a></p>
 </section>
 
 <section id="partner" aria-labelledby="h-partner">

@@ -1,11 +1,12 @@
 # KuARK · İDÜ Lab
 
-**The same science lab for every learner.** 150+ free science games and 3,000+ levels, from primary school to university, in 25 languages.
+**The same science lab for every learner.** 150+ free science games and 3,000+ levels, from primary school to university, in 26 languages.
 
-**Her öğrenciye aynı bilim laboratuvarı.** İlkokuldan üniversiteye 150’den fazla ücretsiz bilim oyunu ve 3.000’den fazla seviye, 25 dilde.
+**Her öğrenciye aynı bilim laboratuvarı.** İlkokuldan üniversiteye 150’den fazla ücretsiz bilim oyunu ve 3.000’den fazla seviye, 26 dilde.
 
 - Introduction page / Tanıtım sayfası: **https://selcuktopalidu.github.io/kuark-tanitim/**
 - Platform: **https://oyun.idu.edu.tr** (opening soon / yakında açılıyor)
+- Live demo / Canlı demo: **https://kuark-production.up.railway.app**
 - Contact / İletişim: **oyun@idu.edu.tr**
 
 ## Posters (English)
@@ -25,6 +26,26 @@
 4. Science from a shared heritage: [PDF](afisler/4-shared-heritage-en.pdf) · [JPG](afisler/4-shared-heritage-en.jpg)
 
 All four in one PDF: [KuARK-posters-en.pdf](afisler/KuARK-posters-en.pdf)
+
+## Going Global 2026, İstanbul (English, five pages)
+
+<table>
+<tr>
+<td><a href="afisler/going-global-1-en.pdf"><img src="afisler/kucuk/going-global-1-en.jpg" width="160" alt="Page 1: Play the science. Prove the learning."></a></td>
+<td><a href="afisler/going-global-2-en.pdf"><img src="afisler/kucuk/going-global-2-en.jpg" width="160" alt="Page 2: Every game is a laboratory."></a></td>
+<td><a href="afisler/going-global-3-en.pdf"><img src="afisler/kucuk/going-global-3-en.jpg" width="160" alt="Page 3: Light to run. Hard to fake."></a></td>
+<td><a href="afisler/going-global-4-en.pdf"><img src="afisler/kucuk/going-global-4-en.jpg" width="160" alt="Page 4: Equity at scale, in 26 languages."></a></td>
+<td><a href="afisler/going-global-5-en.pdf"><img src="afisler/kucuk/going-global-5-en.jpg" width="160" alt="Page 5: Fork a game. Teach it your way."></a></td>
+</tr>
+</table>
+
+1. Play the science. Prove the learning. [PDF](afisler/going-global-1-en.pdf) · [JPG](afisler/going-global-1-en.jpg)
+2. Every game is a laboratory. [PDF](afisler/going-global-2-en.pdf) · [JPG](afisler/going-global-2-en.jpg)
+3. Light to run. Hard to fake. [PDF](afisler/going-global-3-en.pdf) · [JPG](afisler/going-global-3-en.jpg)
+4. Equity at scale, in 26 languages. [PDF](afisler/going-global-4-en.pdf) · [JPG](afisler/going-global-4-en.jpg)
+5. Fork a game. Teach it your way. [PDF](afisler/going-global-5-en.pdf) · [JPG](afisler/going-global-5-en.jpg)
+
+All five pages in one PDF: [KuARK-going-global-en.pdf](afisler/KuARK-going-global-en.pdf)
 
 ## Afişler (Türkçe)
 
