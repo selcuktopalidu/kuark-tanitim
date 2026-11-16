@@ -69,6 +69,21 @@ Dört afiş tek PDF’te: [KuARK-afisler-tr.pdf](afisler/KuARK-afisler-tr.pdf)
 
 Ten 85 × 55 mm cards on one A4 sheet, with crop marks. / Bir A4’te kesim işaretli on kart (85 × 55 mm): [PDF](afisler/qr-kartlari.pdf) · [JPG](afisler/qr-kartlari.jpg)
 
+## Videolar · Videos
+
+- [Platform tanıtımı · Platform introduction](videolar/platform-tanitimi/) · 2 video
+- [Kısa videolar (dikey) · Shorts (vertical)](videolar/kisa-videolar/) · 2 video
+- [Why gamify science? · Bilimi neden oyunlaştırıyoruz?](videolar/neden-bilimi-oyunlastiriyoruz/) · 1 video
+- [Being … at İDÜ Lab · İDÜ Lab’de …](videolar/kisi-filmleri/) · 7 video
+- [Her oyun, her köşe: 3. seviye · Every game, every corner: level 3](videolar/her-oyun-her-kose/) · 2 video
+- [Ders filmleri (canlandırma) · Lesson films (dramatised)](videolar/ders-filmleri/) · 4 video
+- [Bir oyunu dersin için çatalla · Fork a game for your course](videolar/catallama/) · 5 video
+
+## Sosyal medya görselleri · Social media images
+
+- [YouTube kanal görselleri · YouTube channel art](sosyal-medya/youtube/)
+- [Instagram](sosyal-medya/instagram/)
+
 ---
 
 Created by Prof. Dr. Selçuk Topal · Department of Mathematics · Izmir Demokrasi University · [LinkedIn](https://www.linkedin.com/in/selcuktopal80)

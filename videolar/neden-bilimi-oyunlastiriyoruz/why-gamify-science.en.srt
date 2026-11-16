@@ -1,0 +1,272 @@
+1
+00:00:00,300 --> 00:00:03,840
+What if science class felt like your favourite game?
+
+2
+00:00:03,900 --> 00:00:06,840
+Drop an object into water.
+
+3
+00:00:06,900 --> 00:00:09,840
+Guide the rain through a city.
+
+4
+00:00:09,900 --> 00:00:11,640
+Balance a lever.
+
+5
+00:00:11,700 --> 00:00:15,340
+Every move is real science.
+
+6
+00:00:15,400 --> 00:00:24,097
+This is İDÜ Lab: free science games from Izmir Demokrasi University.
+
+7
+00:00:32,842 --> 00:00:35,482
+But for many students, science looks like this.
+
+8
+00:00:35,542 --> 00:00:38,082
+Read about it.
+
+9
+00:00:38,142 --> 00:00:40,682
+Memorise the formula.
+
+10
+00:00:40,742 --> 00:00:43,282
+Find the one right answer.
+
+11
+00:00:43,342 --> 00:00:47,082
+And whatever you do, don’t get it wrong.
+
+12
+00:00:47,142 --> 00:00:53,682
+No wonder so many decide, far too early: science is not for me.
+
+13
+00:00:53,742 --> 00:00:56,882
+That’s not a student problem.
+
+14
+00:00:56,942 --> 00:01:00,707
+That’s a design problem.
+
+15
+00:01:01,317 --> 00:01:02,957
+So we redesigned it.
+
+16
+00:01:03,017 --> 00:01:05,157
+You don’t start with the answer.
+
+17
+00:01:05,217 --> 00:01:08,657
+You start with a guess: where should the weight go?
+
+18
+00:01:08,717 --> 00:01:11,557
+Try it, and the lever shows you what happened.
+
+19
+00:01:11,617 --> 00:01:12,657
+Not level yet?
+
+20
+00:01:12,717 --> 00:01:15,857
+Adjust and try again.
+
+21
+00:01:15,917 --> 00:01:16,957
+Level!
+
+22
+00:01:17,017 --> 00:01:20,757
+You solved it, and now you know why.
+
+23
+00:01:20,817 --> 00:01:21,757
+Prediction.
+
+24
+00:01:21,817 --> 00:01:22,757
+Experiment.
+
+25
+00:01:22,817 --> 00:01:24,357
+Observation.
+
+26
+00:01:24,417 --> 00:01:28,357
+That’s not a trick to make science sweeter.
+
+27
+00:01:28,417 --> 00:01:33,357
+It’s exactly how scientists work.
+
+28
+00:01:33,417 --> 00:01:41,385
+Here, the game is the experiment.
+
+29
+00:01:41,995 --> 00:01:43,635
+And the science is real.
+
+30
+00:01:43,695 --> 00:01:48,735
+Every board runs on true equations: the lever balances only when the moments match.
+
+31
+00:01:48,795 --> 00:01:56,835
+Change the launch angle, and the ball follows a real projectile path.
+
+32
+00:01:56,895 --> 00:02:02,735
+Physics you can see, and steer.
+
+33
+00:02:02,795 --> 00:02:17,995
+Measure one mountain and one horizon, and you can work out the size of the whole Earth, just as al-Biruni did a thousand years ago.
+
+34
+00:02:18,605 --> 00:02:20,445
+Every level follows the same five steps.
+
+35
+00:02:20,505 --> 00:02:21,745
+Predict.
+
+36
+00:02:21,805 --> 00:02:23,045
+Try.
+
+37
+00:02:23,105 --> 00:02:24,345
+See.
+
+38
+00:02:24,405 --> 00:02:25,645
+Explain.
+
+39
+00:02:25,705 --> 00:02:27,245
+Transfer.
+
+40
+00:02:27,305 --> 00:02:31,845
+One rule: the answer appears only after you solve the level.
+
+41
+00:02:31,905 --> 00:02:34,845
+Then the game asks: what if the distance changed?
+
+42
+00:02:34,905 --> 00:02:38,045
+Predict first, then see.
+
+43
+00:02:38,105 --> 00:02:41,745
+Explain it in your own words.
+
+44
+00:02:41,805 --> 00:02:44,845
+Nobody hands you the answer.
+
+45
+00:02:44,905 --> 00:02:50,537
+The discovery is yours.
+
+46
+00:02:51,147 --> 00:02:52,687
+And it’s for everyone.
+
+47
+00:02:52,747 --> 00:02:57,387
+It’s free, it runs in the browser, and it speaks twenty-five languages.
+
+48
+00:02:57,447 --> 00:03:05,287
+Switch the language and the lab switches with you: English, Kazakh, Georgian, Arabic and more.
+
+49
+00:03:05,347 --> 00:03:12,187
+The same games and the same levels, for every learner.
+
+50
+00:03:12,247 --> 00:03:19,012
+No download needed: it runs on a phone, a laptop or a classroom smart board.
+
+51
+00:03:19,622 --> 00:03:22,862
+Science also has a history, and a home.
+
+52
+00:03:22,922 --> 00:03:27,362
+Solve equations on Al-Khwarizmi’s balance.
+
+53
+00:03:27,422 --> 00:03:35,362
+Find your city’s latitude from one shadow, in Ulugh Beg’s observatory.
+
+54
+00:03:35,422 --> 00:03:43,362
+Keep a yurt warm through a winter night.
+
+55
+00:03:43,422 --> 00:03:45,862
+Plan every move in Mangala.
+
+56
+00:03:45,922 --> 00:03:51,554
+Every game connects the science to the people and cultures behind it.
+
+57
+00:03:52,164 --> 00:03:53,204
+And teachers?
+
+58
+00:03:53,264 --> 00:03:54,904
+They get a complete toolkit.
+
+59
+00:03:54,964 --> 00:04:01,104
+Run a live class or a team competition, or put a level on the smart board.
+
+60
+00:04:01,164 --> 00:04:08,304
+Open a ready-made lesson in seconds.
+
+61
+00:04:08,364 --> 00:04:20,029
+And with the Science Passport, every skill a learner masters can become a signed, verifiable badge.
+
+62
+00:04:20,639 --> 00:04:29,779
+From pattern puzzles in primary school to epsilon–delta proofs at university.
+
+63
+00:04:29,839 --> 00:04:30,579
+More than 150 games.
+
+64
+00:04:30,639 --> 00:04:31,379
+More than 3,000 levels.
+
+65
+00:04:31,439 --> 00:04:37,479
+Twenty-five languages.
+
+66
+00:04:37,539 --> 00:04:38,879
+So, why gamify science?
+
+67
+00:04:38,939 --> 00:04:40,879
+Because curiosity is the best teacher.
+
+68
+00:04:40,939 --> 00:04:46,470
+And every learner deserves a lab.
+
