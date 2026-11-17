@@ -103,6 +103,7 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 - [ArdenBot: Tahtadaki sınıf yardımcısı · ArdenBot: The class helper on the board](videolar/ardenbot/) · 2 video
 - [Kuark: Sana göre oyunu bulan rehber · Kuark: The guide who finds your game](videolar/kuark/) · 2 video
 - [Farkındalık köşeleri · Awareness corners](videolar/farkindalik-koseleri/) · 2 video
+- [Köprüler, birlikler, müzeler · Bridges, unity, museums](videolar/miras-koseleri/) · 2 video
 
 ## Sosyal medya görselleri · Social media images
 
