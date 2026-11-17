@@ -69,6 +69,24 @@ Dört afiş tek PDF’te: [KuARK-afisler-tr.pdf](afisler/KuARK-afisler-tr.pdf)
 
 Ten 85 × 55 mm cards on one A4 sheet, with crop marks. / Bir A4’te kesim işaretli on kart (85 × 55 mm): [PDF](afisler/qr-kartlari.pdf) · [JPG](afisler/qr-kartlari.jpg)
 
+## Okul sunumları · School presentations
+
+Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school visits (in Turkish, 16:9 PDF).
+
+<table>
+<tr>
+<td><a href="sunumlar/KuARK-ilkokul-sunumu.pdf"><img src="sunumlar/kucuk/ilkokul.jpg" width="200" alt="İlkokul sunumu"></a></td>
+<td><a href="sunumlar/KuARK-ortaokul-sunumu.pdf"><img src="sunumlar/kucuk/ortaokul.jpg" width="200" alt="Ortaokul sunumu"></a></td>
+<td><a href="sunumlar/KuARK-lise-sunumu.pdf"><img src="sunumlar/kucuk/lise.jpg" width="200" alt="Lise sunumu"></a></td>
+<td><a href="sunumlar/KuARK-universite-sunumu.pdf"><img src="sunumlar/kucuk/universite.jpg" width="200" alt="Üniversite sunumu"></a></td>
+</tr>
+</table>
+
+- [İlkokul · Primary school](sunumlar/KuARK-ilkokul-sunumu.pdf) · 12 slayt
+- [Ortaokul · Middle school](sunumlar/KuARK-ortaokul-sunumu.pdf) · 15 slayt
+- [Lise · High school](sunumlar/KuARK-lise-sunumu.pdf) · 15 slayt
+- [Üniversite · University](sunumlar/KuARK-universite-sunumu.pdf) · 13 slayt
+
 ## Videolar · Videos
 
 - [Platform tanıtımı · Platform introduction](videolar/platform-tanitimi/) · 2 video
