@@ -100,6 +100,7 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 - [Ders filmleri (canlandırma) · Lesson films (dramatised)](videolar/ders-filmleri/) · 4 video
 - [Bir oyunu dersin için çatalla · Fork a game for your course](videolar/catallama/) · 5 video
 - [Bir KuARK oyunu nasıl zorlaşır? · How a KuARK game gets harder](videolar/zorluk-mantigi/) · 2 video
+- [ArdenBot: Tahtadaki sınıf yardımcısı · ArdenBot: The class helper on the board](videolar/ardenbot/) · 2 video
 
 ## Sosyal medya görselleri · Social media images
 

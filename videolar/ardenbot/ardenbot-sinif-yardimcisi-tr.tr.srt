@@ -1,0 +1,92 @@
+1
+00:00:08,736 --> 00:00:13,096
+Bu film öğretmenler ve öğretim elemanları için.
+
+2
+00:00:13,156 --> 00:00:22,063
+Bütün sınıfın tek bir deneyi birlikte oynadığı tahta modunu ve sınıf yardımcısı ArdenBot’u tanıtıyor.
+
+3
+00:00:22,773 --> 00:00:27,513
+ArdenBot, Arden ile ona fikir veren robot kedisidir.
+
+4
+00:00:27,573 --> 00:00:36,543
+Tahtanın altındaki panelde durur: deneyi tanıtır, sırayı ve puanları duyurur, oylamayı ve soruları yönetir.
+
+5
+00:00:36,603 --> 00:00:44,436
+Görseli, Arden’in velisinin izniyle kullanılan bir fotoğraftan hazırlandı.
+
+6
+00:00:45,146 --> 00:00:50,036
+Tahta modu menüleri gizler; yazılar ve düğmeler büyür.
+
+7
+00:00:50,096 --> 00:00:56,639
+ArdenBot sınıfı karşılar ve tartışma süresi başlar.
+
+8
+00:00:57,349 --> 00:01:07,009
+Kırmızı takım 45 dereceyi dener; ArdenBot sonucu duyurur ve sorar: sonraki ölçüm artar mı, aynı mı kalır, azalır mı?
+
+9
+00:01:07,069 --> 00:01:14,944
+Öğretmen kalkan elleri tahtada sayar; telefon gerekmez. Çoğunluk sınıfın tahmini olur.
+
+10
+00:01:15,654 --> 00:01:20,474
+Mavi takım açıyı değiştirip dener ve hedefi tutturur.
+
+11
+00:01:20,534 --> 00:01:29,182
+Sınıf tahmini tutarsa denemeyi yapan takım 1, hedefi tutturan takım 3 puan alır.
+
+12
+00:01:29,892 --> 00:01:36,552
+Tartışma sorusu deneyin aşamasına uygun bir soru gösterir ve süreyi başlatır.
+
+13
+00:01:36,612 --> 00:01:41,385
+Süre bitince ArdenBot fikirleri toplamayı önerir.
+
+14
+00:01:42,095 --> 00:01:49,685
+Kart takım puanlarını, denemeleri, doğru sınıf tahminlerini ve çözülen seviyeleri toplar.
+
+15
+00:01:49,745 --> 00:01:57,656
+İsteğe bağlı sınıf fotoğrafı yalnız cihazda işlenir; sunucuya gitmez.
+
+16
+00:01:58,366 --> 00:02:03,646
+Sınıfı bir ile dört takıma ayırın, tartışma süresini seçin.
+
+17
+00:02:03,706 --> 00:02:11,596
+Bazı oyunlar ArdenBot’a kendi sınıf rehberini verir: takım rolleri ve her aşama için sorular.
+
+18
+00:02:11,656 --> 00:02:20,029
+Olmayan bir denemeden sonra ArdenBot “Bu deneme bir veri.” der ve bir soru ekler.
+
+19
+00:02:20,739 --> 00:02:27,169
+ArdenBot kural tabanlıdır: dil modeli kullanmaz, internete soru göndermez.
+
+20
+00:02:27,229 --> 00:02:36,739
+Söyledikleri deneyin anonim durumundan üretilir: deneme sayısı, hedefin tutup tutmadığı, tahminin tutup tutmadığı.
+
+21
+00:02:36,799 --> 00:02:44,436
+Oylar ve puanlar yalnız o tarayıcı sekmesinde durur; sekme kapanınca silinir.
+
+22
+00:02:45,146 --> 00:02:50,346
+Tahta modu oyunun başlığındaki Öğretmen menüsünden açılır.
+
+23
+00:02:50,406 --> 00:02:58,673
+Oyun bağlantısına ?tahta=1 eklemek de yeterlidir; her ders planında hazır bir bağlantı vardır.
+

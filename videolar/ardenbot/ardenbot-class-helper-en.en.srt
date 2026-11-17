@@ -1,0 +1,92 @@
+1
+00:00:08,736 --> 00:00:12,556
+This film is for teachers and lecturers.
+
+2
+00:00:12,616 --> 00:00:22,063
+It shows board mode, where a whole class plays one experiment together, and its helper, ArdenBot.
+
+3
+00:00:22,773 --> 00:00:28,513
+ArdenBot is Arden, together with a robot cat who gives him ideas.
+
+4
+00:00:28,573 --> 00:00:39,773
+He sits in the panel under the board: he introduces the experiment, calls the turns and the points, and runs the vote and the questions.
+
+5
+00:00:39,833 --> 00:00:48,504
+His picture was made from a photo of Arden, used with his parent’s permission.
+
+6
+00:00:49,214 --> 00:00:54,644
+Board mode hides the menus and makes text and buttons bigger.
+
+7
+00:00:54,704 --> 00:01:00,707
+ArdenBot welcomes the class, and the discussion timer starts.
+
+8
+00:01:01,417 --> 00:01:11,777
+Team Red tries 45 degrees; ArdenBot reads out the result and asks: will the next measurement go up, stay the same or go down?
+
+9
+00:01:11,837 --> 00:01:23,080
+The teacher counts the raised hands on the board, no phones needed. The majority becomes the class prediction.
+
+10
+00:01:23,790 --> 00:01:28,990
+Team Blue changes the angle, tests it and hits the target.
+
+11
+00:01:29,050 --> 00:01:37,317
+A correct class prediction earns the team 1 point; hitting the target earns 3.
+
+12
+00:01:38,027 --> 00:01:44,767
+The discussion question fits the stage of the experiment and starts the timer.
+
+13
+00:01:44,827 --> 00:01:51,554
+When time is up, ArdenBot suggests collecting the ideas.
+
+14
+00:01:52,264 --> 00:01:59,234
+The card gathers team points, tries, correct class predictions and solved levels.
+
+15
+00:01:59,294 --> 00:02:07,826
+An optional class photo is processed only on the device; it never goes to the server.
+
+16
+00:02:08,536 --> 00:02:14,656
+Split the class into one to four teams and choose the discussion time.
+
+17
+00:02:14,716 --> 00:02:22,226
+Some games give ArdenBot their own class guide: team roles and questions for each stage.
+
+18
+00:02:22,286 --> 00:02:30,198
+After a missed try, ArdenBot treats it as data and adds a question.
+
+19
+00:02:30,908 --> 00:02:38,498
+ArdenBot is rule-based: it uses no language model and sends no questions to the internet.
+
+20
+00:02:38,558 --> 00:02:50,068
+What he says comes from the anonymous state of the experiment: the number of tries, whether the target was hit, whether the prediction held.
+
+21
+00:02:50,128 --> 00:02:58,673
+Votes and points stay in that browser tab and are deleted when it closes.
+
+22
+00:02:59,383 --> 00:03:06,433
+Open it from the teacher menu in the game header, or add board=1 to the game link.
+
+23
+00:03:06,493 --> 00:03:14,944
+Every lesson plan has a link that opens the game straight in board mode.
+
