@@ -1,0 +1,164 @@
+1
+00:00:08,736 --> 00:00:14,786
+This film is for teachers, faculty members and education researchers.
+
+2
+00:00:14,846 --> 00:00:22,063
+It shows how a KuARK game gets harder, and why every difficulty is there.
+
+3
+00:00:22,773 --> 00:00:25,893
+Every level runs the same loop.
+
+4
+00:00:25,953 --> 00:00:31,073
+Predict what will happen, change one setting and test it.
+
+5
+00:00:31,133 --> 00:00:36,413
+The board redraws the science from the level’s own numbers.
+
+6
+00:00:36,473 --> 00:00:42,402
+Then explain why it worked, and carry the idea to a new case.
+
+7
+00:00:43,312 --> 00:00:47,432
+Every game has twenty levels in five stages.
+
+8
+00:00:47,492 --> 00:00:54,605
+Each stage adds one kind of challenge, so learners always know what is new.
+
+9
+00:00:55,315 --> 00:00:58,255
+Levels 1 to 3: one setting.
+
+10
+00:00:58,315 --> 00:01:05,055
+One cause, one effect; everything else stays still, so a first model can form.
+
+11
+00:01:05,115 --> 00:01:12,910
+Even here the projectile has two correct angles: a model can have more than one answer.
+
+12
+00:01:13,620 --> 00:01:16,820
+Levels 4 to 6: a fixed variable.
+
+13
+00:01:16,880 --> 00:01:21,000
+Now the angle is held and the speed changes.
+
+14
+00:01:21,060 --> 00:01:29,182
+This is the control of variables: change one thing and keep the rest.
+
+15
+00:01:29,892 --> 00:01:33,172
+Levels 7 to 10: combine settings.
+
+16
+00:01:33,232 --> 00:01:39,202
+Angle and speed are chosen together, and a limit appears: a ceiling.
+
+17
+00:01:39,262 --> 00:01:47,487
+Learners weigh trade-offs and find that several combinations can work.
+
+18
+00:01:48,197 --> 00:01:51,137
+Levels 11 to 15: expert.
+
+19
+00:01:51,197 --> 00:01:57,247
+A genuinely new idea enters: a wall, a second medium, another planet.
+
+20
+00:01:57,307 --> 00:02:05,792
+The model is extended rather than replaced; that is what transfer looks like.
+
+21
+00:02:06,502 --> 00:02:09,622
+Levels 16 to 20: master design.
+
+22
+00:02:09,682 --> 00:02:16,042
+Several limits must hold at once: a height, a ridge, a different gravity.
+
+23
+00:02:16,102 --> 00:02:24,097
+The task becomes design under constraints, as in real engineering and research.
+
+24
+00:02:24,807 --> 00:02:31,857
+A setting that only the later levels use stays fixed and hidden in levels 1 to 10.
+
+25
+00:02:31,917 --> 00:02:40,368
+It appears when the new idea needs it, so the early levels stay simple.
+
+26
+00:02:41,078 --> 00:02:44,898
+Some difficulties are placed on purpose.
+
+27
+00:02:44,958 --> 00:02:52,008
+The answer appears only after the level is solved, so learners have to produce it.
+
+28
+00:02:52,068 --> 00:02:58,038
+They predict first, and feedback shows the direction, not the value.
+
+29
+00:02:58,098 --> 00:03:03,838
+Hints come in three tiers: strategy, formula, then the full path.
+
+30
+00:03:03,898 --> 00:03:12,910
+Stars reward method: at least two tries in different conditions, then the reasoning task.
+
+31
+00:03:13,620 --> 00:03:21,510
+In learning-science terms, the stages move from a low-load start to the control of variables,
+
+32
+00:03:21,570 --> 00:03:29,160
+then to covariation and trade-offs, to transfer, and finally to design under constraints.
+
+33
+00:03:29,220 --> 00:03:35,283
+The difficulty grows in the reasoning, not only in the numbers.
+
+34
+00:03:35,993 --> 00:03:45,043
+Under the hood, each scenario comes from a seed and is checked for at least one solution before it is shown.
+
+35
+00:03:45,103 --> 00:03:53,693
+When a signed-in learner solves a level, the server replays it with the same seed and the same engine.
+
+36
+00:03:53,753 --> 00:04:01,033
+The same seed always gives the same scenario, so a lesson or a study can be repeated.
+
+37
+00:04:01,093 --> 00:04:11,893
+In formula games the accepted band tightens in four steps, and a link can open exactly the levels a lesson needs.
+
+38
+00:04:12,603 --> 00:04:15,803
+The design itself can be tested.
+
+39
+00:04:15,863 --> 00:04:26,833
+With consent and ethics approval, the platform randomises choices such as the prediction step, the feedback style and the hint tiers.
+
+40
+00:04:26,893 --> 00:04:37,173
+An honest limit: passing level 20 alone does not certify proficiency; that needs pilots and independent pre- and post-tests.
+
+41
+00:04:37,233 --> 00:04:42,402
+If you study learning, we would like to work with you.
+
