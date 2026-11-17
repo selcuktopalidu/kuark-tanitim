@@ -1,0 +1,76 @@
+1
+00:00:08,736 --> 00:00:13,166
+This film is for students, parents and teachers.
+
+2
+00:00:13,226 --> 00:00:22,063
+It shows how Kuark, the guide on the home page, recommends games and protects children.
+
+3
+00:00:22,773 --> 00:00:28,433
+Tap Kuark in the corner of the home page and a short chat opens.
+
+4
+00:00:28,493 --> 00:00:34,266
+Kuark asks your age first; tap a button or type.
+
+5
+00:00:34,976 --> 00:00:42,486
+Then it asks your grade and your interests: nature, maths, space, music, sport and more.
+
+6
+00:00:42,546 --> 00:00:50,537
+Pick several interests; press Recommend and the suggestions appear.
+
+7
+00:00:51,247 --> 00:00:59,067
+Kuark suggests three games and says why for each: your interests, your grade, a new arrival.
+
+8
+00:00:59,127 --> 00:01:04,775
+The Play button opens the game straight away.
+
+9
+00:01:05,485 --> 00:01:11,075
+Not keen? Press “More like these” and Kuark brings other games.
+
+10
+00:01:11,135 --> 00:01:19,012
+A suggestion is not a test result or a learning guarantee; it is a starting point.
+
+11
+00:01:19,722 --> 00:01:24,312
+Kuark recognises sentences about a child’s safety.
+
+12
+00:01:24,372 --> 00:01:37,317
+If a stranger wants to meet, it says what to do: don’t reply, don’t go, don’t share your details, and tell an adult you trust right away.
+
+13
+00:01:38,027 --> 00:01:45,453
+When the panel closes, the conversation is deleted.
+
+14
+00:01:46,163 --> 00:01:53,903
+Kuark is rule-based: it answers with ready-made sentences and never repeats what you wrote.
+
+15
+00:01:53,963 --> 00:02:03,758
+It suggests games from clues about age, grade and interests, and shows the reason for each one.
+
+16
+00:02:04,468 --> 00:02:11,898
+On topics such as self-harm, abuse or meeting a stranger, Kuark points the way to help.
+
+17
+00:02:11,958 --> 00:02:22,063
+It does not answer swearing or insults, rejects praise of violence and gives no opinion on religion or politics.
+
+18
+00:02:22,773 --> 00:02:32,203
+What you type is processed on your device; usage signals are sent only if voluntary research participation is on.
+
+19
+00:02:32,263 --> 00:02:42,402
+Devices that tell Kuark they are under 13 never see the research question, and Kuark is hidden in board mode.
+

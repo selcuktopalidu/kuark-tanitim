@@ -1,0 +1,76 @@
+1
+00:00:08,736 --> 00:00:13,166
+Bu film öğrenciler, veliler ve öğretmenler için.
+
+2
+00:00:13,226 --> 00:00:22,063
+Ana sayfadaki rehber Kuark’ın nasıl oyun önerdiğini ve çocukları nasıl koruduğunu gösteriyor.
+
+3
+00:00:22,773 --> 00:00:28,593
+Ana sayfanın köşesindeki Kuark’a dokununca kısa bir sohbet açılır.
+
+4
+00:00:28,653 --> 00:00:36,300
+Kuark önce yaşını sorar; düğmeye dokunmak ya da yazmak yeter.
+
+5
+00:00:37,010 --> 00:00:44,830
+Sonra sınıfını ve ilgi alanlarını sorar: doğa, matematik, uzay, müzik, spor ve daha fazlası.
+
+6
+00:00:44,890 --> 00:00:52,571
+Birkaç ilgi alanı seçilebilir; “Öner”e basınca öneriler gelir.
+
+7
+00:00:53,281 --> 00:01:01,641
+Kuark üç oyun önerir ve her birinin nedenini yazar: ilgi alanı, sınıf düzeyi, yeni eklenmiş olması.
+
+8
+00:01:01,701 --> 00:01:06,809
+“Oyna” düğmesi oyunu doğrudan açar.
+
+9
+00:01:07,519 --> 00:01:12,639
+Beğenmezsen “Başka öner” de; Kuark başka oyunlar getirir.
+
+10
+00:01:12,699 --> 00:01:21,046
+Öneri bir sınav sonucu ya da öğrenme garantisi değildir; bir başlangıç noktasıdır.
+
+11
+00:01:21,756 --> 00:01:26,726
+Kuark çocuğun güvenliğini ilgilendiren cümleleri tanır.
+
+12
+00:01:26,786 --> 00:01:39,351
+Tanımadığı biri buluşmak isterse ne yapacağını söyler: yanıt verme, buluşmaya gitme, bilgilerini paylaşma ve hemen güvendiğin bir yetişkine anlat.
+
+13
+00:01:40,061 --> 00:01:45,453
+Panel kapanınca konuşma silinir.
+
+14
+00:01:46,163 --> 00:01:54,903
+Kuark kural tabanlıdır: hazır cümlelerle cevap verir ve yazdığını cevaplarında hiçbir zaman tekrarlamaz.
+
+15
+00:01:54,963 --> 00:02:03,758
+Yaş, sınıf ve ilgi alanı ipuçlarından öneri yapar; her önerinin nedenini gösterir.
+
+16
+00:02:04,468 --> 00:02:12,748
+Kendine zarar, istismar ve tanımadığı biriyle buluşma gibi konularda Kuark yardım yolunu gösterir.
+
+17
+00:02:12,808 --> 00:02:22,063
+Küfre ve hakarete yanıt vermez, şiddet övgüsünü reddeder; din ve siyaset sorularında görüş bildirmez.
+
+18
+00:02:22,773 --> 00:02:31,663
+Yazdığın metin cihazında işlenir; kullanım sinyalleri yalnız gönüllü araştırma katılımı açıksa gönderilir.
+
+19
+00:02:31,723 --> 00:02:42,402
+13 yaşından küçük olduğunu söyleyen cihazlarda araştırma sorusu hiç gösterilmez; sınıfta tahta modu açıkken Kuark gizlenir.
+
