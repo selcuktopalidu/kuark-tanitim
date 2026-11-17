@@ -87,6 +87,9 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 - [Lise · High school](sunumlar/KuARK-lise-sunumu.pdf) · 15 slayt
 - [Üniversite · University](sunumlar/KuARK-universite-sunumu.pdf) · 13 slayt
 
+**Bir oyunu dersin için çatalla · Fork a game for your course** (8 dil · 8 languages, 11 slayt):
+[Türkçe](sunumlar/catallama/KuARK-catallama-tr.pdf) · [English](sunumlar/catallama/KuARK-catallama-en.pdf) · [Français](sunumlar/catallama/KuARK-catallama-fr.pdf) · [Italiano](sunumlar/catallama/KuARK-catallama-it.pdf) · [العربية](sunumlar/catallama/KuARK-catallama-ar.pdf) · [Deutsch](sunumlar/catallama/KuARK-catallama-de.pdf) · [Español](sunumlar/catallama/KuARK-catallama-es.pdf) · [Русский](sunumlar/catallama/KuARK-catallama-ru.pdf)
+
 ## Videolar · Videos
 
 - [Platform tanıtımı · Platform introduction](videolar/platform-tanitimi/) · 2 video
