@@ -6,6 +6,8 @@ For teachers and lecturers: in board mode the whole class plays one experiment t
 
 ArdenBot’un görseli, Arden’in velisinin izniyle kullanılan bir fotoğraftan hazırlandı. · ArdenBot’s picture was made from a photo of Arden, used with his parents’ permission.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [ArdenBot: Tahtadaki sınıf yardımcısı](ardenbot-sinif-yardimcisi-tr.mp4) | Türkçe | 3:19 | [SRT](ardenbot-sinif-yardimcisi-tr.tr.srt) |

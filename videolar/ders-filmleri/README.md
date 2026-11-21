@@ -4,6 +4,8 @@ Tahta modunda iki ders: diş hekimliği laboratuvarında Çürük Haritası ve l
 
 Two lessons in board mode: Caries Map in a dentistry lab and Projectile Launch in a high-school class. The films are dramatisations. Caries Map is based on the Restorative Dentistry guide of Prof. Dr. Gül Çelik, Assoc. Prof. Dr. Esra Özyurt, Asst. Prof. Dr. Busenaz Cemile Karaoğlu and Asst. Prof. Dr. Gülsen Kiraz; Projectile Launch was designed by Prof. Dr. Selçuk Topal.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Diş hekimliği laboratuvarı](ders-dis-laboratuvari-tr.mp4) | Türkçe | 1:38 | [SRT](ders-dis-laboratuvari-tr.tr.srt) |

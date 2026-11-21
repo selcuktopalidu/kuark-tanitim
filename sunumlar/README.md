@@ -6,6 +6,8 @@ Maarif Modeli ile uyum, güvenlik ve gizlilik, öğretmen araçları; üniversit
 
 Four decks for visits to primary, middle and high schools and universities (in Turkish, 16:9 PDF).
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Sunum · Deck | Slayt · Slides |
 | --- | --- |
 | [İlkokul · Primary school](KuARK-ilkokul-sunumu.pdf) | 12 |

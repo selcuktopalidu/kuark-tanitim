@@ -27,6 +27,8 @@
 
 All four in one PDF: [KuARK-posters-en.pdf](afisler/KuARK-posters-en.pdf)
 
+Captions, hashtags and alt text for every poster: [afisler/paylasim-metinleri.md](afisler/paylasim-metinleri.md)
+
 ## Going Global 2026, İstanbul (English, five pages)
 
 <table>
@@ -65,6 +67,8 @@ All five pages in one PDF: [KuARK-going-global-en.pdf](afisler/KuARK-going-globa
 
 Dört afiş tek PDF’te: [KuARK-afisler-tr.pdf](afisler/KuARK-afisler-tr.pdf)
 
+Her afişin paylaşım metni, hashtagleri ve görsel açıklaması: [afisler/paylasim-metinleri.md](afisler/paylasim-metinleri.md)
+
 ## QR cards / QR kartları
 
 Ten 85 × 55 mm cards on one A4 sheet, with crop marks. / Bir A4’te kesim işaretli on kart (85 × 55 mm): [PDF](afisler/qr-kartlari.pdf) · [JPG](afisler/qr-kartlari.jpg)
@@ -92,6 +96,8 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 
 ## Videolar · Videos
 
+Her video klasöründe `paylasim-metinleri.md` var: YouTube başlığı, açıklaması, etiketleri, hashtagleri ve Instagram, X, LinkedIn için kısa paylaşım. · Every video folder has a `paylasim-metinleri.md` with the YouTube title, description, tags, hashtags and short posts for Instagram, X and LinkedIn.
+
 - [Platform tanıtımı · Platform introduction](videolar/platform-tanitimi/) · 2 video
 - [Kısa videolar (dikey) · Shorts (vertical)](videolar/kisa-videolar/) · 2 video
 - [Why gamify science? · Bilimi neden oyunlaştırıyoruz?](videolar/neden-bilimi-oyunlastiriyoruz/) · 1 video
@@ -110,6 +116,7 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 
 - [YouTube kanal görselleri · YouTube channel art](sosyal-medya/youtube/)
 - [Instagram](sosyal-medya/instagram/)
+- [Kanal ve profil metinleri, hashtagler · Channel and profile texts, hashtags](sosyal-medya/paylasim-metinleri.md)
 
 ---
 

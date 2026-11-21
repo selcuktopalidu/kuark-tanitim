@@ -4,6 +4,8 @@ Platformun iki dakikalık tanıtımı ve Kaldıraç Ustası oyununun tam turu (T
 
 A two-minute introduction to the platform and a full round of the Lever Master game (in Turkish).
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Her öğrenciye aynı bilim laboratuvarı](video1-platform-tanitimi.mp4) | Türkçe | 2:11 | — |

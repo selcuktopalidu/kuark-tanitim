@@ -4,6 +4,8 @@
 
 Two vertical videos from the Science in 60 Seconds and Science from a Shared Heritage series, 1080 × 1920.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Kaldıraç Ustası](short1-kaldirac-ustasi.mp4) | Türkçe | 0:21 | — |

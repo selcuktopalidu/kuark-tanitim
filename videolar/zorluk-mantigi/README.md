@@ -4,6 +4,8 @@
 
 For teachers, faculty and education researchers: every game has twenty levels in five stages, and every level runs the same loop (predict, try, see, explain, transfer). Using the levels of the projectile game, the film explains the difficulties placed on purpose, their learning-science terms, seeded scenarios and server-side checking. The film was made in eight languages; this folder holds the Turkish and English versions.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Bir KuARK oyunu nasıl zorlaşır?](zorluk-mantigi-tr.mp4) | Türkçe | 4:59 | [SRT](zorluk-mantigi-tr.tr.srt) |

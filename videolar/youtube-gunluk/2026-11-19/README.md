@@ -4,6 +4,8 @@ YouTube kanalının 19 Kasım paketi: iki dikey kısa video ve iki yatay video.
 
 The YouTube channel’s package for 19 November: two vertical Shorts and two horizontal videos.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Saat · Time | Video | Dizi · Series | Süre · Length | Boyut · Size |
 | --- | --- | --- | --- | --- |
 | 12:30 | [Gerilim iter, direnç frenler · Devre kur](short-devre-kur.mp4) | 60 Saniyede Bilim · Science in 60 Seconds | 0:24 | 1080 × 1920 |

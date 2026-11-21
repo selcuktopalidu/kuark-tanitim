@@ -4,6 +4,8 @@ Her oyunun 3. seviyesindeki tahta ve her köşenin üçüncü kartı, paylaşım
 
 The level-3 board of every game and the third card of every corner, with share cards; 1.5 seconds each.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Her oyun, her köşe](her-oyun-her-kose-3-seviye.mp4) | Türkçe | 10:18 | — |

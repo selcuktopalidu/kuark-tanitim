@@ -4,6 +4,8 @@ Kurum ortaklığı ve çatal sistemi beş dilde: kurum başvurusu, ortak oyun, A
 
 Institution partnership and the fork system in five languages: applying as an institution, the partner game, the A4 poster, the live lesson and the lineage chain. The institutions in the film are examples; the QR code on the poster is blurred.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Bir oyunu dersin için çatalla](catallama-tr.mp4) | Türkçe | 3:21 | [SRT](catallama-tr.tr.srt) |

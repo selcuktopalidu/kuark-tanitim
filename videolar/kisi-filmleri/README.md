@@ -4,6 +4,8 @@ Seven films, about three minutes each, on what the platform offers a child, a te
 
 Bir çocuğa, gence, lisans öğrencisine, veliye, öğretmene, öğretim üyesine ve herkese platformun neler sunduğunu anlatan yedi film, her biri yaklaşık üç dakika; İngilizce alt yazılı.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Being a child](being-a-child.mp4) | English | 2:57 | [SRT](being-a-child.en.srt) |

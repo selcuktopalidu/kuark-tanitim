@@ -4,6 +4,8 @@
 
 For students, parents and teachers: Kuark, the guide on the home page, recommends games by age, grade and interests and gives the reason for each one. The film shows how Kuark recommends, how it protects children (safety, respect, neutrality, bullying) and its privacy rules. The film was made in eight languages; this folder holds the Turkish and English versions.
 
+**Paylaşım metinleri · Post texts:** [paylasim-metinleri.md](paylasim-metinleri.md) (başlık, açıklama, etiketler, hashtagler ve kısa paylaşımlar · titles, descriptions, tags, hashtags and short posts)
+
 | Video | Dil · Language | Süre · Length | Alt yazı · Subtitles |
 | --- | --- | --- | --- |
 | [Kuark: Sana göre oyunu bulan rehber](kuark-oyun-rehberi-tr.mp4) | Türkçe | 3:03 | [SRT](kuark-oyun-rehberi-tr.tr.srt) |
