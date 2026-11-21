@@ -6,6 +6,7 @@ Every day two vertical Shorts and two horizontal videos. Each folder holds one d
 
 | Tarih · Date | Paket · Package |
 | --- | --- |
+| 22 Kasım 2026 · 22 November 2026 | [2026-11-22](2026-11-22/) · 4 video |
 | 19 Kasım 2026 · 19 November 2026 | [2026-11-19](2026-11-19/) · 4 video |
 
 Created by Prof. Dr. Selçuk Topal · Department of Mathematics · Izmir Demokrasi University · oyun@idu.edu.tr

@@ -104,7 +104,7 @@ Okul ziyaretleri için dört sunum (Türkçe, 16:9 PDF). / Four decks for school
 - [Kuark: Sana göre oyunu bulan rehber · Kuark: The guide who finds your game](videolar/kuark/) · 2 video
 - [Farkındalık köşeleri · Awareness corners](videolar/farkindalik-koseleri/) · 2 video
 - [Köprüler, birlikler, müzeler · Bridges, unity, museums](videolar/miras-koseleri/) · 2 video
-- [YouTube günlük paketleri · Daily YouTube packages](videolar/youtube-gunluk/) · 4 video
+- [YouTube günlük paketleri · Daily YouTube packages](videolar/youtube-gunluk/) · 8 video
 
 ## Sosyal medya görselleri · Social media images
 
